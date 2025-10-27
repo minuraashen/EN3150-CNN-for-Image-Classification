@@ -176,7 +176,7 @@ python predict.py --image path/to/image.jpg --model resnet18
 ---
 
 ## 📁 Project Structure
-
+```
 waste-classification-cnn/
 │
 ├── data/
@@ -210,8 +210,7 @@ waste-classification-cnn/
 ├── evaluate.py
 ├── predict.py
 └── README.md
-
-
+```
 ---
 
 ## 📦 Requirements
